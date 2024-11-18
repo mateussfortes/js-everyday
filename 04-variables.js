@@ -96,7 +96,6 @@ let x = "5" + 2 + 3; // this will result 523
 
 let x = 5 + 2 + "3"; // this will result 73
 
-
 // JAVASCRIPT DOLLAR SIGN $
 // Is trat like a normal letter
 
@@ -106,7 +105,6 @@ let $myMoney = 5;
 
 // Is not very common but professional programmers use it as an alias
 // for the main ffuncitno in a JavaScript library
-
 
 // THE SAME IS VALID FOR UNDERSCORE _
 
